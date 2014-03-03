@@ -1,7 +1,7 @@
 lanyuan
 =======
 
-开放源码,基于springMVC+springSecurity3.x+Mybaits3.x的权限系统,,支持开源
+开放源码,基于springMVC+springSecurity3.x+Mybaits3.x+ligerUI的权限系统,,支持开源
 
 
 在平时的空闲时，自己做了一个权限管理系统，细粒度控制，支持控制到按扭！支持开源！分享知识！
@@ -53,3 +53,9 @@ lanyuan
 
 详细请查看我的ｃｓｄｎ播客文章：http://blog.csdn.net/mmm333zzz/article/details/16863543
 
+
+
+
+
+#效果图
+![添加文章](https://raw.github.com/jacarrichan/lanyuan/master/readme.jpg "")
