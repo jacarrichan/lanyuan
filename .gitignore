@@ -4,3 +4,13 @@
 *.jar
 *.war
 *.ear
+
+.DS_Store
+# Eclipse project files
+.classpath
+/.classpath
+.project
+/.project
+.settings/
+/target
+WEB-INF/logs/
